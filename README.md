@@ -66,8 +66,8 @@
 
 ![PoPuP](https://i.ibb.co/r3Rs4Nt/ezgif-com-gif-maker-1.gif)
 
+<br/><br/>
 
+#### *Powered by*: The Author (newadministrator)
 
-
-
-# dark-ublock
+##### Project: dark-ublock
