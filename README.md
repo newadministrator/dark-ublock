@@ -1,4 +1,9 @@
 
+[![Build Status](https://travis-ci.com/travis-ci/travis-web.svg?branch=bd-config-messages)](https://travis-ci.com/travis-ci/travis-web)
+
+###### (Unofficial)
+
+
 ## DARK THEME for uBlock Origin&nbsp; 
 
 
