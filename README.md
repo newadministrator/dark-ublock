@@ -53,7 +53,7 @@
 >6. Find: "Profile Folder", now, click "Open Folder";
 >7. Create a new folder: "chrome" (without quotes), open it, paste the file (userContent.css) in;
 >8. Restart the firefox (close and open);
->9. Open the Duolingo website.
+>9. Done.
 
 <br />
 
