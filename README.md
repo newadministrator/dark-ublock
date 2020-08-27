@@ -3,7 +3,7 @@
 
 
 
-![Alt-text]()
+![Alt-text](https://i.ibb.co/gzkLRTF/Untitled.png)
 <br />
 
 -----------
@@ -57,8 +57,12 @@
 
 <br />
 
+-----------
 
+### Screenshots?
+-----------
 
+![General](https://i.ibb.co/KLWGrrc/ezgif-com-gif-maker.gif)
 
 
 
