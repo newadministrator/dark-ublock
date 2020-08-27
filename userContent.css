@@ -1,3 +1,9 @@
+/* Author: newadministrator a.k.a e.victor					*/
+/* Date: 08/2020 							       */
+/* What: Dark Theme for uBlock Origin 					      */
+/* Lang: .CSS 								     */
+/* Disclaimer: Not involved with company uBlock Origin., theme based only.  */
+
 @-moz-document url-prefix("moz-extension://cfdba070-e04c-4249-8053-aee30a63d5bc/") {
 		/* UBLOCK ORIGIN */
 		
@@ -139,8 +145,11 @@
 	
 	#firewall > div > span,
 	#actionSelector > #dynaCounts {
-    background-color: #1a1a27;
+		background-color: #1a1a27; /*popup disabled*/
 	}
-  
-  /*END*/
+	
+	#loggerExportDialog .output {
+		color: black !important;
+	}
+/*END*/		
 }
