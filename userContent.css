@@ -117,6 +117,18 @@
 	#netInspector #filterExprPicker span[data-filtex]:hover {
 		background-color: #316c9f !important;
 	}
+
+	#netFilteringDialog > .panes > .details > div > span {
+		background-color: cadetblue !important;
+	}
+	
+	#netFilteringDialog > div.panes > .dynamic .entry {
+		background-color: cadetblue !important;
+	}
+	
+	#netFilteringDialog > div.panes > .dynamic .entry:hover {
+		background-color: #559597f7 !important;
+	}
 	
 	#modalOverlay > div > div:nth-of-type(1) {
 		background-color: #3c3a3a !important;
